@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\services\\itemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\services\\itemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|c:\\production_cmp\\production_cmp_sychronise_process\\backup_code\\emailregistrationapp\\emailregistrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E39D638-8B22-4F72-1661-F28CE7A548C4}|EmailRegistrationApp\\EmailRegistrationApp.csproj|solutionrelative:emailregistrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Program.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Program.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:51:11.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EmailRegistrationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:50:51.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EmailRegistrationApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:50:20.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\Registration\\Success.cshtml",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Views\\Registration\\Success.cshtml",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\Registration\\Success.cshtml",
+              "RelativeToolTip": "EmailRegistrationApp\\Views\\Registration\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:49:57.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "EmailRegistrationApp\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:49:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:47:12.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemplateService.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\TemplateService.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Services\\TemplateService.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\TemplateService.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Services\\TemplateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:45:58.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITemplateService.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\ITemplateService.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Services\\ITemplateService.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\ITemplateService.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Services\\ITemplateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:45:37.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\EmailService.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:44:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Services\\IEmailService.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:43:46.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Models\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Models\\EmailRequest.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Models\\EmailRequest.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Models\\EmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:43:20.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "EmailRegistrationApp\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:41.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EmailRegistrationApp\\appsettings.json",
+              "ToolTip": "C:\\Production_Cmp\\Production_Cmp_Sychronise_Process\\Backup_Code\\EmailRegistrationApp\\EmailRegistrationApp\\appsettings.json",
+              "RelativeToolTip": "EmailRegistrationApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T12:42:19.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
